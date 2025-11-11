@@ -22,17 +22,17 @@ The implementation includes:
 
 ## Key Features
 
-- ✅ Plug-and-play knowledge attention module
-- ✅ Support for multiple knowledge base formats (embeddings, key-value stores)
-- ✅ Efficient retrieval mechanisms
-- ✅ Visualization tools for attention patterns
-- ✅ Example training and inference scripts
+-  Plug-and-play knowledge attention module
+-  Support for multiple knowledge base formats (embeddings, key-value stores)
+-  Efficient retrieval mechanisms
+-  Visualization tools for attention patterns
+-  Example training and inference scripts
 
 ## Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/knowledge-attention-transformer.git
+git clone https://github.com/dhyougit/knowledge-attention-transformer.git
 cd knowledge-attention-transformer
 
 # Create virtual environment
@@ -214,6 +214,4 @@ Contributions are welcome! Please see CONTRIBUTING.md for guidelines.
 - Built on PyTorch's transformer implementation
 - Knowledge retrieval techniques adapted from RAG and REALM papers
 
-## Contact
 
-For questions or issues, please open an issue on GitHub or contact [your.email@example.com]
