@@ -194,9 +194,8 @@ If you use this code in your research, please cite:
 ```bibtex
 @software{knowledge_attention_transformer,
   title={Knowledge-Enhanced Transformer with Attention},
-  author={Your Name},
   year={2025},
-  url={https://github.com/yourusername/knowledge-attention-transformer}
+  url={https://github.com/dhyougit/knowledge-attention-transformer}
 }
 ```
 
